@@ -1,0 +1,8 @@
+"""
+Ardea AVO: an auditable agentic variation engine and ARC-AGI-3 harness.
+"""
+
+__all__ = ["__version__"]
+
+__version__ = "0.1.0"
+
